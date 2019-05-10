@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Achtung, ein wildes Marko</title>
+</head>
+<body>
+<h1 style="color:red; font-family:arial; font-size:60px"> Ein wildes Marko </h1>
+<br> 
+<h3 style="font-family:arial; font-size:44xpx"> ein marko ist ein Marko , deswegen fangt es nicht , sonderen macht irgendwas anderes damit :D </h3>
+<body>
+                           <hr> <h3> hier sieht man ein aertgenossen von mir </h3>
+
+<p> ein video lol </p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b1L6dcTHjTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p> wen sie das veideo kucken wollen , dan versuchen sie es doch mal mit klicken. </p>
+
+<h3 style="font-family:arial; font-size:30xpx"> Aber was ist eigentlich ein marko ?. Ein marko ist eine Person die 12 jahre alt ist. Deswegen ist ein marko auch so lustig </h3>
+<br>
+<br>
+<hr>
+
+<form method="post2 action="maito:plav.yt6@gmail.com">
+<label>Name mit dem ich dich anschreiben kann:</label>
+<input type="text" id="name" size="35" maxlength0"50">
+<label>Deine E-Mail:</label>
+<input type="text" id="email" size="35" maxlenght="50">
+<br>
+<input type="radio" id="umfrage" value=Tolle_Seite"
+<label> Für den Anfang ganz gut </label>
+<br>
+<input type="radio" id="umfrage" value="Dumme_Seite">
+<label>FInde ich schlecht</label>
+<hr>
+<input type="checkbox" id="umfrage1" value="Tolle_Seite_Bleib_dran">
+<label>Bleib dran</lbel>
+<br>
+<input type="checkbox" id="umfrage1" 
+value="Geh">
+<label>Geh bitte aus dem Web</label>
+
+<hr>
+<select id="liste">
+<otion>Ich würde mich freuen wenn du noch eine seite machst</option>
+<option>Die seite ist ok</option>
+<option>Bitte, mach alles außer noch eine seite<option>
+</select>
+<br>
+<hr>
+<label> Meine persönliche Naricht (optimal):</label>
+<input type="text" id="persönlich" size="60" maxlength="10000"
+<p>
+<br>
+<input type="submit" value="senden">
+<input type="reset" value="löschen">
+</form>
+</body>
+</html>
+
+
